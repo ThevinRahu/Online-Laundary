@@ -1,4 +1,3 @@
-//i changed
 <!DOCTYPE html>
 <html lang="en">
 
